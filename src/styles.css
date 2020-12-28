@@ -1,0 +1,14 @@
+html, body {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 16px;
+   background-color: lightblue;
+}
+.logo {
+   text-align: center;
+   margin: 0 auto;
+
+}
+.logo img {
+   width: 100%;
+   max-width: 240px;
+   }

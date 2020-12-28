@@ -1,0 +1,9 @@
+h1 { 
+    font-size: 21px;
+    color: rgb(5, 82, 128);
+    text-align: center;
+    margin: 0;
+}
+small {
+    font-weight: normal;
+}
